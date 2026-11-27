@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BlindRun Kenya</string>
+    <string name="app_tagline">Assistive Running &amp; Athlete Monitoring</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="sign_in_subtitle">Sign in to continue your assistive running journey</string>
+    <string name="create_account_title">Create Account</string>
+    <string name="create_account_subtitle">Register your athlete, coach, or admin profile</string>
+    <string name="password_reset_title">Recover Password</string>
+    <string name="email_label">Email Address</string>
+    <string name="password_label">Password</string>
+    <string name="full_name_label">Full Name</string>
+    <string name="sign_in_button">Sign In</string>
+    <string name="register_button">Create Account</string>
+    <string name="reset_password_button">Send Recovery Email</string>
+    <string name="offline_continue_button">Continue Offline (Local Belt &amp; GPS Mode)</string>
+    <string name="nav_dashboard">Home</string>
+    <string name="nav_devices">Devices</string>
+    <string name="nav_race">Race</string>
+    <string name="nav_health">Health</string>
+    <string name="nav_history">History</string>
+    <string name="nav_coach">Athletes</string>
+    <string name="nav_admin">Admin</string>
+    <string name="waist_belt_title">ESP32 Smart Waist Belt</string>
+    <string name="scan_qr_button">Scan Belt QR Code</string>
+    <string name="ble_scan_button">Scan BLE Devices</string>
+    <string name="sync_now_button">Sync Queued Records</string>
+    <string name="health_connect_rationale">BlindRun Kenya reads heart rate, steps, active calories, exercise duration, distance, oxygen saturation, and sleep from Health Connect to monitor athlete safety and share consented summaries with coaches.</string>
+</resources>

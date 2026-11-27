@@ -1,0 +1,6 @@
+{
+  "name": "BlindRun Kenya",
+  "description": "Assistive running, BLE waist-belt haptic navigation, smartwatch health monitoring, and athlete-coach-admin platform for visually impaired and deafblind runners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

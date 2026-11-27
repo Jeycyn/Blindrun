@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer haptic sonar pulse arcs (left & right) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#C8F731"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:pathData="M31,36 C25,45 25,63 31,72" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#C8F731"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:pathData="M77,36 C83,45 83,63 77,72" />
+    <!-- Runner head -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M58,31m-5.5,0a5.5,5.5 0,1 1,11 0a5.5,5.5 0,1 1,-11 0" />
+    <!-- Dynamic runner torso & stride -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M56.5,39.5 L47,49 L41,47 L38.5,51.5 L48,54.5 L53,49 L49.5,60 L39,72.5 L44,76 L54,64.5 L61,68.5 L58.5,79 L64,80.5 L67.5,65.5 L59,60 L62,50.5 L69.5,56 L73,52 L63,43.5 C61,41.5 58.5,40 56.5,39.5 Z" />
+    <!-- Forward directional guidance chevron -->
+    <path
+        android:fillColor="#C8F731"
+        android:pathData="M50,24 L54,19 L58,24 Z" />
+</vector>
